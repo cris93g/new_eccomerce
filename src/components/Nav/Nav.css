@@ -1,0 +1,8 @@
+.nav:hover {
+  /* display: none; */
+  opacity: 1;
+  height: 800px;
+  padding: 10px 10px;
+  border: 1px solid #777777;
+  border: 1px solid black;
+}
