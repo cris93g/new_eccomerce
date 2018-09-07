@@ -6,7 +6,7 @@ const Wrapper = styled.section`
   margin: auto;
   display: flex;
   height: 90px;
-  background-color: white;
+  background-color: lightgray;
   position: sticky;
 `;
 
